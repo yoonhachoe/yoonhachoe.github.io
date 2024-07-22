@@ -45,8 +45,8 @@
       "institution": "Technical University of Munich",
       "location": "Munich, Germany",
       "url": "https://www.tum.de/",
-      "area": "Informatics",
-      "studyType": "M.Sc.",
+      "area": "",
+      "studyType": "Master of Science, Informatics",
       "startDate": "Oct 2020",
       "endDate": "Sep 2023",
       "score": "2.1",
@@ -56,8 +56,8 @@
       "institution": "Ewha Womans University",
       "location": "Seoul, South Korea",
       "url": "https://ewha.ac.kr/",
-      "area": "Computer Science and Engineering",
-      "studyType": "B.Sc.",
+      "area": "",
+      "studyType": "Bachelor of Science, Computer Science and Engineering",
       "startDate": "Mar 2015",
       "endDate": "Feb 2020",
       "score": "3.85/4.3 (Magna Cum Laude)"
@@ -94,7 +94,7 @@
     {
       "name": "Machine Learning Frameworks",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
         "PyTorch",
         "TensorFlow",
@@ -104,7 +104,7 @@
     {
       "name": "Programming Languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
         "Python",
         "C",
@@ -117,7 +117,7 @@
     {
       "name": "Web Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
         "HTML5",
         "CSS",
@@ -127,7 +127,7 @@
     {
       "name": "Database",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
         "MySQL"
       ]
@@ -135,7 +135,7 @@
     {
       "name": "Development Tools",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
         "Visual Studio",
         "PyCharm",
@@ -152,7 +152,7 @@
     {
       "name": "Others",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
         "OpenCV",
         "OpenMP",
@@ -191,14 +191,27 @@
   ],
   "interests": [
     {
-      "name": "Deep Learning, Computer Vision, Natural Language Processing",
-      "icon": "fa-solid fa-tag",
+      "name": "Deep Learning",
+      "icon": "",
       "keywords": [
-        "Generative AI",
+        "Generative AI"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "icon": "",
+      "keywords": [
         "Face Reenactment",
         "3D Scene Understanding",
+        "3D semantic segmentation"
+      ]
+    },
+    {
+      "name": "Natural Language Processing",
+      "icon": "",
+      "keywords": [
         "Grounding Natural Language in 3D Environments",
-        "Cross-Modal Generation"
+        "Text-to-image/3D generation"
       ]
     }
   ],
