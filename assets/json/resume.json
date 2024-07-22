@@ -49,24 +49,52 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.tum.de/",
+      "area": "Informatics",
+      "studyType": "M.Sc.",
+      "startDate": "Oct 2020",
+      "endDate": "Sep 2023",
+      "score": "2.1",
+      "courses": ["Introduction to Deep Learning", "Machine Learning", "Computer Vision II: Multiple View Geometry", "Computer Vision III: Detection, Segmentation, and Tracking", "Basic Mathematical Methods for Imaging and Visualization", "3D Scanning & Motion Capture", "Advanced Deep Learning for Computer Vision", "Practical Course: Deep Learning in Visual Computing", "Master Seminar 3D Vision", "Automata and Formal Languages"]
+    },
+    {
+      "institution": "Ewha Womans University",
+      "location": "Seoul, South Korea",
+      "url": "https://ewha.ac.kr/",
+      "area": "Computer Science and Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "Mar 2015",
+      "endDate": "Feb 2020",
+      "score": "3.85/4.3 (Magna Cum Laude)"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Capstone Design Contest",
+      "date": "Winter 2019",
+      "awarder": "Ewha Womans University"
+    },
+    {
+      "title": "Honors",
+      "date": "Summer 2019",
+      "awarder": "Ewha Womans University"
+    },
+    {
+      "title": "Honors",
+      "date": "Winter 2018",
+      "awarder": "Ewha Womans University"
+    },
+    {
+      "title": "Highest Honors",
+      "date": "Summer 2017",
+      "awarder": "Ewha Womans University"
+    },
+    {
+      "title": "Highest Honors",
+      "date": "Winter 2016",
+      "awarder": "Ewha Womans University"
     }
   ],
   "skills": [
