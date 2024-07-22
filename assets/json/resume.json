@@ -12,14 +12,7 @@
       "city": "Munich",
       "countryCode": "DE",
       "region": "Bayern"
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -168,6 +161,15 @@
         "CUDA",
         "MATLAB"
       ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Development of Video-Based Landmark Detection System Using Deep Learning",
+      "publisher": "Korea Software Congress, Poster Session",
+      "releaseDate": "Dec 2019",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
   "languages": [
