@@ -1,172 +1,157 @@
 {
   "basics": {
-    "name": "Yoonha Choe",
-    "image": "prof_pic.jpg",
-    "email": "yuniqueha@gmail.com",
-    "phone": "(49) 15781694940",
-    "url": "https://yoonhachoe.github.io",
-    "summary": "A graduate informatics student and a former AI software engineer intern who are eager to research and implement state-of-the-art AI technologies to solve real-world business problems and drive business growth",
+    "name": "Albert Einstein",
+    "label": "Scientist",
+    "image": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "Heßstraße 100",
-      "postalCode": "80797",
-      "city": "Munich",
-      "countryCode": "Germany",
-      "region": "Bavaria"
-    }
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Intel Corporation, Munich",
-      "position": "AI Software Engineer Intern",
-      "url": "https://www.intel.de/",
-      "startDate": "May 2022",
-      "endDate": "May 2023",
-      "highlights": ["Researched and wrote a survey on explainable AI in computer vision and natural language processing models", "Integrated various methods of Class Activation Mapping (CAM) into Intel Explainable AI Tools", "Released Intel Explainable AI Tools v0.3.0 on Intel AI GitHub"]
-    },
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+  ],
+  "volunteer": [
     {
-      "name": "Scalable Computer Architecture Laboratory, Graduate School of Convergence Science and Technology, Seoul National University, Seoul",
-      "position": "Undergraduate Researcher",
-      "url": "https://scale.snu.ac.kr/",
-      "startDate": "Jul 2018",
-      "endDate": "Aug 2018",
-      "highlights": ["Researched performance based on shared LLC partitioning method using Intel CAT"]
-    },
-    {
-      "name": "Ewha Womans University, Seoul",
-      "position": "Teaching Assistant",
-      "url": "https://ewha.ac.kr/",
-      "startDate": "Mar 2017",
-      "endDate": "Jun 2017",
-      "highlights": ["Guided students in Computer Engineering Basic Design course"]
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "Technical University of Munich",
-      "location": "Munich, Germany",
-      "url": "https://www.tum.de/",
-      "area": "Informatics",
-      "studyType": "M.Sc.",
-      "startDate": "Oct 2020",
-      "endDate": "Sep 2023",
-      "score": "2.1",
-      "courses": ["Introduction to Deep Learning", "Machine Learning", "Computer Vision II: Multiple View Geometry", "Computer Vision III: Detection, Segmentation, and Tracking", "Basic Mathematical Methods for Imaging and Visualization", \
-      "3D Scanning & Motion Capture", "Advanced Deep Learning for Computer Vision", "Practical Course: Deep Learning in Visual Computing", "Master Seminar 3D Vision", "Automata and Formal Languages"]
-    },
-    {
-      "institution": "Ewha Womans University",
-      "location": "Seoul, South Korea",
-      "url": "https://ewha.ac.kr/",
-      "area": "Computer Science and Engineering",
-      "studyType": "B.Sc.",
-      "startDate": "Mar 2015",
-      "endDate": "Feb 2020",
-      "score": "3.85/4.3 (Magna Cum Laude)"
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
     {
-      "title": "Capstone Design Contest",
-      "date": "Winter 2019",
-      "awarder": "Ewha Womans University"
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "title": "Honors",
-      "date": "Summer 2019",
-      "awarder": "Ewha Womans University"
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "title": "Honors",
-      "date": "Winter 2018",
-      "awarder": "Ewha Womans University"
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "title": "Highest Honors",
-      "date": "Summer 2017",
-      "awarder": "Ewha Womans University"
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
     },
     {
-      "title": "Highest Honors",
-      "date": "Winter 2016",
-      "awarder": "Ewha Womans University"
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    },
+    {
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+    },
+    {
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Machine Learning Frameworks",
+      "name": "Physics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "Keras"
-      ]
-    },
-    {
-      "name": "Programming Languages",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C",
-        "C++",
-        "Java",
-        "Shell Script",
-        "LATEX"
-      ]
-    },
-    {
-      "name": "Web Programming",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "HTML5",
-        "CSS",
-        "Django"
-      ]
-    },
-    {
-      "name": "Database",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MySQL"
-      ]
-    },
-    {
-      "name": "Development Tools",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Visual Studio",
-        "PyCharm",
-        "Unity",
-        "GitHub",
-        "Jupyter Notebook",
-        "Eclipse",
-        "Vim",
-        "AWS",
-        "Microsoft Azure",
-        "Google Cloud"
-      ]
-    },
-    {
-      "name": "Others",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "OpenCV",
-        "OpenMP",
-        "Linux",
-        "Git",
-        "CUDA",
-        "MATLAB"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Korean",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -174,58 +159,42 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    },
-    {
-      "language": "German",
-      "fluency": "Elementary",
-      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Deep Learning, Computer Vision, Natural Language Processing",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Generative AI",
-        "Face Reenactment",
-        "3D Scene Understanding",
-        "Grounding Natural Language in 3D Environments",
-        "Cross-Modal Generation"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "One-Shot Landmark-Based Face Reenactment (Master’s Thesis, Supervised by Prof. Dr. Matthias Nießner)",
-      "summary": "Proposed a method of facial reenactment which generates high-resolution reenacted video given a single source identity conditioned by the facial landmarks of the target video using StyleGAN3",
-      "highlights": ["Generative AI", "Face Reenactment"],
-      "startDate": "Oct 2022",
-      "endDate": "Jun 2023",
-      "url": "https://github.com/yoonhachoe/One-Shot-Landmark-Based-Face-Reenactment"
-    },
-    {
-      "name": "Sugar Beet Leaf Damage Regression Model for Smart Plant Monitoring",
-      "summary": "Proposed a computer vision and deep learning-based method of detecting sugar beet leaf damage rates using a convolutional neural network that can be incorporated into a smartphone application",
-      "highlights": ["Deep Learning", "Computer vision", "Interdisciplinary Project"],
-      "startDate": "Apr 2022",
-      "endDate": "Oct 2023",
-      "url": "https://github.com/yoonhachoe/CropDamageDetection"
-    },
-    {
-      "name": "Facial Reenactment from Sparse Landmarks using StyleGAN3,",
-      "summary": "Proposed a method of facial reenactment which enables to transfer the source face movement to the target face by simply tracking sparse facial landmarks",
-      "highlights": ["Generative AI", "Face Reenactment"],
-      "startDate": "Oct 2021",
-      "endDate": "Feb 2022",
-      "url": "https://github.com/yoonhachoe/FaceReenactment"
-    },
-    {
-      "name": "3D Object Localization in RGB-D Scans using Natural Language with Graph, Attention and BRNet",
-      "summary": "Improved the previous state-of-the-art method named ScanRefer : 3D Object Localization in RGB-D Scans using Natural Language by adapting graph, attention mechanism and object detection module with BRNet",
-      "highlights": ["Computer Vision", "Natural Language Processing", "3D object localization", "Vision-Language Navigation"],
-      "startDate": "Apr 2021",
-      "endDate": "Jul 2021",
-      "url": "https://github.com/yoonhachoe/ScanRefer-GAB"
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ]
 }
