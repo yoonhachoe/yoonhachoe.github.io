@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yoonhachoe
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - yoonhachoe/FaceReenactment
+  - yoonhachoe/CropDamageDetection
+  - yoonhachoe/One-Shot-Landmark-Based-Face-Reenactment
+  - yoonhachoe/ScanRefer-GAB
+  - yoonhachoe/intel-xai-tools
