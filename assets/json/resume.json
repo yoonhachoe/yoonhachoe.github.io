@@ -71,22 +71,80 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "PyTorch",
+        "TensorFlow",
+        "Keras"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "Shell Script",
+        "LATEX"
+      ]
+    },
+    {
+      "name": "Web Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "Django"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Visual Studio",
+        "PyCharm",
+        "Unity",
+        "GitHub",
+        "Jupyter Notebook",
+        "Eclipse",
+        "Vim",
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "OpenCV",
+        "OpenMP",
+        "Linux",
+        "Git",
+        "CUDA",
+        "MATLAB"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -94,19 +152,23 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Deep Learning, Computer Vision, Natural Language Processing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Generative AI",
+        "Face Reenactment",
+        "3D Scene Understanding",
+        "Grounding Natural Language in 3D Environments",
+        "Cross-Modal Generation"
       ]
     }
   ],
