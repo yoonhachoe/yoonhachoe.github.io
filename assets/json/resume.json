@@ -112,12 +112,36 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "One-Shot Landmark-Based Face Reenactment (Master’s Thesis, Supervised by Prof. Dr. Matthias Nießner)",
+      "summary": "Proposed a method of facial reenactment which generates high-resolution reenacted video given a single source identity conditioned by the facial landmarks of the target video using StyleGAN3",
+      "highlights": ["Generative AI", "Face Reenactment"],
+      "startDate": "Oct 2022",
+      "endDate": "Jun 2023",
+      "url": "https://github.com/yoonhachoe/One-Shot-Landmark-Based-Face-Reenactment"
+    },
+    {
+      "name": "Sugar Beet Leaf Damage Regression Model for Smart Plant Monitoring",
+      "summary": "Proposed a computer vision and deep learning-based method of detecting sugar beet leaf damage rates using a convolutional neural network that can be incorporated into a smartphone application",
+      "highlights": ["Deep Learning", "Computer vision", "Interdisciplinary Project"],
+      "startDate": "Apr 2022",
+      "endDate": "Oct 2023",
+      "url": "https://github.com/yoonhachoe/CropDamageDetection"
+    },
+    {
+      "name": "Facial Reenactment from Sparse Landmarks using StyleGAN3,",
+      "summary": "Proposed a method of facial reenactment which enables to transfer the source face movement to the target face by simply tracking sparse facial landmarks",
+      "highlights": ["Generative AI", "Face Reenactment"],
+      "startDate": "Oct 2021",
+      "endDate": "Feb 2022",
+      "url": "https://github.com/yoonhachoe/FaceReenactment"
+    },
+    {
+      "name": "3D Object Localization in RGB-D Scans using Natural Language with Graph, Attention and BRNet",
+      "summary": "Improved the previous state-of-the-art method named ScanRefer : 3D Object Localization in RGB-D Scans using Natural Language by adapting graph, attention mechanism and object detection module with BRNet",
+      "highlights": ["Computer Vision", "Natural Language Processing", "3D object localization", "Vision-Language Navigation"],
+      "startDate": "Apr 2021",
+      "endDate": "Jul 2021",
+      "url": "https://github.com/yoonhachoe/ScanRefer-GAB"
     }
   ]
 }
