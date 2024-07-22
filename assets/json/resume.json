@@ -23,13 +23,28 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Intel Corporation, Munich",
+      "position": "AI Software Engineer Intern",
+      "url": "https://www.intel.de/",
+      "startDate": "May 2022",
+      "endDate": "May 2023",
+      "highlights": ["Researched and wrote a survey on explainable AI in computer vision and natural language processing models", "Integrated various methods of Class Activation Mapping (CAM) into Intel Explainable AI Tools", "Released Intel Explainable AI Tools v0.3.0 on Intel AI GitHub"]
+    },
+    {
+      "name": "Scalable Computer Architecture Laboratory, Graduate School of Convergence Science and Technology, Seoul National University, Seoul",
+      "position": "Undergraduate Researcher",
+      "url": "https://scale.snu.ac.kr/",
+      "startDate": "Jul 2018",
+      "endDate": "Aug 2018",
+      "highlights": ["Researched performance based on shared LLC partitioning method using Intel CAT"]
+    },
+    {
+      "name": "Ewha Womans University, Seoul",
+      "position": "Teaching Assistant",
+      "url": "https://ewha.ac.kr/",
+      "startDate": "Mar 2017",
+      "endDate": "Jun 2017",
+      "highlights": ["Guided students in Computer Engineering Basic Design course"]
     }
   ],
   "volunteer": [
