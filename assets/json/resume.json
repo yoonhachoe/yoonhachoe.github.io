@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yoonha Choe",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yuniqueha@gmail.com",
+    "phone": "(49) 157 816 94940",
+    "url": "https://yoonhachoe.github.io",
+    "summary": "A graduate informatics student and a former AI software engineer intern who are eager to research and implement state-of-the-art AI technologies to solve real-world business problems and drive business growth",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Heßstraße 100",
+      "postalCode": "80797",
+      "city": "Munich",
+      "countryCode": "DE",
+      "region": "Bayern"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
