@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
+title: Sugar Beet Leaf Damage Regression Model for Smart Plant Monitoring
 description: another without an image
-img:
+img: assets/img/7.jpg
+redirect: https://unsplash.com
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
