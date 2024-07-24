@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Facial Reenactment from Sparse Landmarks using StyleGAN3
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: 
+img: assets/img/2_proj.jpg
 redirect: https://github.com/yoonhachoe/FaceReenactment
 importance: 2
 category: work

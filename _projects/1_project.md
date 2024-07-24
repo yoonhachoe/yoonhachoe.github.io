@@ -1,8 +1,8 @@
 ---
 layout: page
 title: One-Shot Landmark-Based Face Reenactment
-description: with background image
-img: assets/img/12.jpg
+description: 
+img: assets/img/1_proj.jpg
 redirect: https://github.com/yoonhachoe/One-Shot-Landmark-Based-Face-Reenactment
 importance: 1
 category: work

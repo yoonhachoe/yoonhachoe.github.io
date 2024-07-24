@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language with Graph, Attention and BRNet
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: ScanRefer with Graph, Attention and BRNet
+description: 
+img: assets/img/3_proj.jpg
 redirect: https://github.com/yoonhachoe/ScanRefer-GAB
 importance: 3
 category: work

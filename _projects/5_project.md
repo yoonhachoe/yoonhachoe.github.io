@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Intel XAI Toolkit
-description: a project with a background image
-img: assets/img/1.jpg
+description: 
+img: assets/img/5proj.jpg
 redirect: https://github.com/yoonhachoe/intel-xai-tools
 importance: 3
 category: work
