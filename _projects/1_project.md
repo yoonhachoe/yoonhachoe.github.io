@@ -3,7 +3,7 @@ layout: page
 title: One-Shot Landmark-Based Face Reenactment
 description: with background image
 img: assets/img/12.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/yoonhachoe/One-Shot-Landmark-Based-Face-Reenactment
 importance: 1
 category: work
 ---

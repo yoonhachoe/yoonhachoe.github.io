@@ -3,7 +3,7 @@ layout: page
 title: Intel XAI Toolkit
 description: a project with a background image
 img: assets/img/1.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/yoonhachoe/intel-xai-tools
 importance: 3
 category: work
 ---

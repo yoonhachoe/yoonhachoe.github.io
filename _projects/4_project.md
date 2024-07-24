@@ -3,7 +3,7 @@ layout: page
 title: Sugar Beet Leaf Damage Regression Model for Smart Plant Monitoring
 description: another without an image
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/yoonhachoe/CropDamageDetection
 importance: 3
 category: work
 ---
