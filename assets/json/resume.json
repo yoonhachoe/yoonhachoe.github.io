@@ -155,11 +155,13 @@
       "icon": "",
       "keywords": [
         "OpenCV",
-        "OpenMP",
-        "Linux",
-        "Git",
         "CUDA",
-        "MATLAB"
+        "MATLAB", 
+        "Linux", 
+        "Git", 
+        "OpenMP", 
+        "MPI", 
+        "Apache Hadoop"
       ]
     }
   ],
@@ -174,18 +176,18 @@
   ],
   "languages": [
     {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "German",
-      "fluency": "Elementary",
+      "fluency": "Beginner",
+      "icon": ""
+    }, 
+    {
+      "language": "Korean",
+      "fluency": "Native",
       "icon": ""
     }
   ],
@@ -203,7 +205,7 @@
       "keywords": [
         "Face Reenactment",
         "3D Scene Understanding",
-        "3D semantic segmentation"
+        "3D Semantic Segmentation"
       ]
     },
     {
@@ -211,7 +213,7 @@
       "icon": "",
       "keywords": [
         "Grounding Natural Language in 3D Environments",
-        "Text-to-image/3D generation"
+        "Text-to-image/3D Generation"
       ]
     }
   ],
