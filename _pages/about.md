@@ -16,6 +16,6 @@ social: true # includes social icons at the bottom of the page
 
 As a graduate informatics student and a former AI software engineer intern, I have a proven track record of developing and deploying
 cutting-edge AI models across various domains. I am interested in computer vision and natural language processing,
-particularly generative AI, face reenactment, and 3D scene understanding. I am eager to pursue a career in deep learning as an AI
+particularly generative AI, 3D scene understanding, and text-to-3D generation. I am eager to pursue a career in deep learning as an AI
 software engineer and research and implement state-of-the-art AI technologies to solve real-world business problems and drive
 business growth.
